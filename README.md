@@ -1,4 +1,4 @@
-## django-react-frontend: Front end to https://github.com/loopsrage/django-backend/blob/master/README.md
+
 Project only partially complete.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
